@@ -1,168 +1,96 @@
 {
     "cosmoshub-4": {
-        "v17.x": {
+        "v17.x.x": {
             "cosmos-sdk": "v0.47.13-ics-lsm",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
+                    "tag": "v17.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 },
                 "metaprotocols": {
                     "proto-version": "",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
+                    "tag": "v17.0.0",
                     "path": "proto/gaia/metaprotocols/"
                 }
             }
         },
-        "v16.x": {
+        "v16.x.x": {
             "cosmos-sdk": "v0.47.13-ics-lsm",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
+                    "tag": "v16.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 },
                 "metaprotocols": {
                     "proto-version": "",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
+                    "tag": "v16.0.0",
                     "path": "proto/gaia/metaprotocols/"
                 }
             }
         },
-        "v15.2.x": {
+        "v15.x.x": {
             "cosmos-sdk": "v0.47.10",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
+                    "tag": "v15.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 },
                 "metaprotocols": {
                     "proto-version": "",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
+                    "tag": "v15.0.0",
                     "path": "proto/gaia/metaprotocols/"
                 }
             }
         },
-        "v15.1.x": {
-            "cosmos-sdk": "v0.47.10",
-            "modules": {
-                "globalfee": {
-                    "proto-version": "v1beta1",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
-                    "path": "proto/gaia/globalfee/v1beta1"
-                },
-                "metaprotocols": {
-                    "proto-version": "",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
-                    "path": "proto/gaia/metaprotocols/"
-                }
-            }
-        },
-        "v15.x": {
-            "cosmos-sdk": "v0.47.10",
-            "modules": {
-                "globalfee": {
-                    "proto-version": "v1beta1",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
-                    "path": "proto/gaia/globalfee/v1beta1"
-                },
-                "metaprotocols": {
-                    "proto-version": "",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v15.x",
-                    "path": "proto/gaia/metaprotocols/"
-                }
-            }
-        },
-        "v14.2.x": {
+        "v14.x.x": {
             "cosmos-sdk": "v0.45.16",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v11.x",
+                    "tag": "v14.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
         },
-        "v14.1.x": {
+        "v13.x.x": {
             "cosmos-sdk": "v0.45.16",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v11.x",
+                    "tag": "v13.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
         },
-        "v14.x": {
-            "cosmos-sdk": "v0.45.16",
-            "modules": {
-                "globalfee": {
-                    "proto-version": "v1beta1",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v11.x",
-                    "path": "proto/gaia/globalfee/v1beta1"
-                }
-            }
-        },
-        "v13.x": {
-            "cosmos-sdk": "v0.45.16",
-            "modules": {
-                "globalfee": {
-                    "proto-version": "v1beta1",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v11.x",
-                    "path": "proto/gaia/globalfee/v1beta1"
-                }
-            }
-        },
-        "v12.x": {
+        "v12.x.x": {
             "cosmos-sdk": "v0.45.16-ics",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v11.x",
+                    "tag": "v12.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
         },
-        "v11.x": {
+        "v11.x.x": {
             "cosmos-sdk": "v0.45.16-ics",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v11.x",
+                    "tag": "v11.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
@@ -172,33 +100,19 @@
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v7.1.x",
+                    "tag": "v10.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
         },
-        "v9.1.x": {
+        "v9.x.x": {
             "cosmos-sdk": "v0.45.15-ics",
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v7.1.x",
-                    "path": "proto/gaia/globalfee/v1beta1"
-                }
-            }
-        },
-        "v9.0.x": {
-            "cosmos-sdk": "v0.45.15-ics",
-            "modules": {
-                "globalfee": {
-                    "proto-version": "v1beta1",
-                    "isSymlink": false,
-                    "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v7.1.x",
+                    "tag": "v9.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
@@ -208,9 +122,8 @@
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v7.1.x",
+                    "tag": "v8.0.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
@@ -220,9 +133,8 @@
             "modules": {
                 "globalfee": {
                     "proto-version": "v1beta1",
-                    "isSymlink": false,
                     "url": "https://github.com/cosmos/gaia.git",
-                    "branch": "release/v7.1.x",
+                    "tag": "v7.1.0",
                     "path": "proto/gaia/globalfee/v1beta1"
                 }
             }
