@@ -1,0 +1,990 @@
+{
+    "cosmoshub-4": {
+        "v17.x": {
+            "cosmos-sdk": "v0.47.13-ics-lsm",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                },
+                "metaprotocols": {
+                    "proto-version": "",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/metaprotocols/"
+                }
+            }
+        },
+        "v16.x": {
+            "cosmos-sdk": "v0.47.13-ics-lsm",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                },
+                "metaprotocols": {
+                    "proto-version": "",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/metaprotocols/"
+                }
+            }
+        },
+        "v15.2.x": {
+            "cosmos-sdk": "v0.47.10",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                },
+                "metaprotocols": {
+                    "proto-version": "",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/metaprotocols/"
+                }
+            }
+        },
+        "v15.1.x": {
+            "cosmos-sdk": "v0.47.10",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                },
+                "metaprotocols": {
+                    "proto-version": "",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/metaprotocols/"
+                }
+            }
+        },
+        "v15.x": {
+            "cosmos-sdk": "v0.47.10",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                },
+                "metaprotocols": {
+                    "proto-version": "",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v15.x",
+                    "path": "proto/gaia/metaprotocols/"
+                }
+            }
+        },
+        "v14.2.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v11.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v14.1.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v11.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v14.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v11.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v13.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v11.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v12.x": {
+            "cosmos-sdk": "v0.45.16-ics",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v11.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v11.x": {
+            "cosmos-sdk": "v0.45.16-ics",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v11.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v10.0.x": {
+            "cosmos-sdk": "v0.45.16-ics",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v7.1.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v9.1.x": {
+            "cosmos-sdk": "v0.45.15-ics",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v7.1.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v9.0.x": {
+            "cosmos-sdk": "v0.45.15-ics",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v7.1.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v8.0.x": {
+            "cosmos-sdk": "v0.45.14",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v7.1.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v7.1.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "v1beta1",
+                    "isSymlink": false,
+                    "url": "https://github.com/cosmos/gaia.git",
+                    "branch": "release/v7.1.x",
+                    "path": "proto/gaia/globalfee/v1beta1"
+                }
+            }
+        },
+        "v7.0.x": {
+            "cosmos-sdk": "v0.45.9",
+            "modules": {}
+        },
+        "v6.0.1": {
+            "cosmos-sdk": "v0.44.5",
+            "modules": {}
+        },
+        "v6.0.0": {
+            "cosmos-sdk": "v0.44.3",
+            "modules": {}
+        },
+        "v6.0.x": {
+            "cosmos-sdk": "v0.44.8",
+            "modules": {}
+        },
+        "v5.0.x": {
+            "cosmos-sdk": "v0.42.11",
+            "modules": {}
+        },
+        "v4.2.x": {
+            "cosmos-sdk": "v0.42.4",
+            "modules": {}
+        },
+        "v4.1.x": {
+            "cosmos-sdk": "v0.42.2",
+            "modules": {}
+        },
+        "v4.0.x": {
+            "cosmos-sdk": "v0.42.0",
+            "modules": {}
+        },
+        "v3.0.x": {
+            "cosmos-sdk": "v0.40.1",
+            "modules": {}
+        },
+        "v2.0.x": {
+            "cosmos-sdk": "v0.37.15",
+            "modules": {}
+        }
+    },
+    "neutron-1": {
+        "v3.0.x": {
+            "cosmos-sdk": "v0.47.10",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/cron"
+                },
+                "dex": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/neutron/dex"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                },
+                "gmp": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                },
+                "ibc-hooks": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                },
+                "ibcswap": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                }
+            }
+        },
+        "v2.0.x": {
+            "cosmos-sdk": "v0.47.6",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.1",
+                    "path": "proto/neutron/cron"
+                },
+                "dex": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/neutron/dex"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v1.0.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/cron"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v0.4.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/cron"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v0.3.x": {
+            "cosmos-sdk": "v0.45.14",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/feeburner"
+                },
+                "cron": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/cron"
+                },
+                "tokenfactory": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/osmosis/tokenfactory/v1beta1"
+                }
+            }
+        },
+        "v0.2.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/feerefunder"
+                },
+                "feeburner": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/feeburner"
+                }
+            }
+        },
+        "v0.1.x": {
+            "cosmos-sdk": "v0.45.5",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/transfer/v1"
+                },
+                "contractmanager": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/contractmanager"
+                },
+                "feerefunder": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/feerefunder"
+                }
+            }
+        },
+        "v0.0.1": {
+            "cosmos-sdk": "v0.45.5",
+            "modules": {
+                "interchainqueries": {
+                    "proto-version": "",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchainqueries"
+                },
+                "interchaintxs": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/interchaintxs/v1"
+                },
+                "transfer": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/neutron-org/neutron.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/transfer/v1"
+                }
+            }
+        }
+    },
+    "noble-1": {
+        "v4.1.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/tokenfactory"
+                },
+                "forwarding": {
+                    "proto-version": "v1",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/noble/forwarding/v1"
+                }
+            }
+        },
+        "v4.0.x": {
+            "cosmos-sdk": "v0.45.16",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/fiattokenfactory"
+                },
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v4.0.0",
+                    "path": ""
+                }
+            }
+        },
+        "v3.x.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/fiattokenfactory"
+                },
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v3.0.0",
+                    "path": ""
+                }
+            }
+        },
+        "v2.x.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/tokenfactory"
+                },
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/fiattokenfactory"
+                }
+            }
+        },
+        "v1.x.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.5.x": {
+            "cosmos-sdk": "v0.45.15",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/fiattokenfactory"
+                },
+                "globalfee": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/globalfee"
+                },
+                "tariff": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/tariff"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.5.0",
+                    "path": ""
+                }
+            }
+        },
+        "v0.4.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "fiattokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.4.2",
+                    "path": "proto/fiattokenfactory"
+                },
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.4.2",
+                    "path": "proto/tokenfactory"
+                },
+                "blockibc": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.4.2",
+                    "path": ""
+                }
+            }
+        },
+        "v0.3.x": {
+            "cosmos-sdk": "v0.45.13",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.2.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.1.x": {
+            "cosmos-sdk": "v0.45.11",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        },
+        "v0.0.1": {
+            "cosmos-sdk": "v0.45.7-0.20221104161803-456ca5663c5e",
+            "modules": {
+                "tokenfactory": {
+                    "proto-version": "",
+                    "url": "https://github.com/noble-assets/noble.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/tokenfactory"
+                }
+            }
+        }
+    },
+    "celestia": {
+        "v0.5.x": {
+            "cosmos-sdk": "v0.46.0-beta2.0.20220418184507-c53157dd63f6",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.5.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.4.x": {
+            "cosmos-sdk": "v0.44.3",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.4.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.3.x": {
+            "cosmos-sdk": "v0.44.3",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.3.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.2.x": {
+            "cosmos-sdk": "v0.44.3",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.2.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.1.x": {
+            "cosmos-sdk": "v0.44.0",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.1.0",
+                    "path": "proto/payment"
+                }
+            }
+        },
+        "v0.0.1": {
+            "cosmos-sdk": "v0.44.0",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.0.1",
+                    "path": "proto/payment"
+                }
+            }
+        }
+    }
+}
