@@ -55,11 +55,11 @@
     1. interchainqueries
 
 ## noble-1
- v4.1.0: 
+- v4.1.0: 
     1. tokenfactory
     2. globalfee
     3. tariff
- v4.0.0: 
+- v4.0.0: 
     1. tokenfactory
     2. blockibc(no proto files available in protos directory)
     3. fiattokenfactory
@@ -96,6 +96,34 @@
     1. tokenfactory
 
 ## celestia
+- v0.9.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+    4. da (is not present as a module but has proto file in proto directory)
+    5. third_party/proto 
+        [confio, cosmos_proto, gogoproto, google, tendermint]
+    6. unusual cosmos-sdk version (also there is a replace command in this and v0.9.0 go.mod)
+- v0.8.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+    4. da (is not present as a module but has proto file in proto directory)
+    5. third_party/proto 
+        [confio, cosmos_proto, gogoproto, google, tendermint]
+- v0.7.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+    4. da (is not present as a module but has proto file in proto directory)
+    5. third_party/proto 
+        [confio, cosmos_proto, gogoproto, google, tendermint]
+- v0.6.0: 
+    1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
+    2. payment
+    3. qgb
+    4. third_party/proto 
+        [confio, cosmos_proto, gogoproto, google, tendermint]
 - v0.5.0: 
     1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
     2. payment

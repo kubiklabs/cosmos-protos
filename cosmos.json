@@ -808,8 +808,76 @@
         }
     },
     "celestia": {
+        "v0.9.x": {
+            "cosmos-sdk": "",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.9.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.9.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.8.x": {
+            "cosmos-sdk": "",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.8.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.8.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.7.x": {
+            "cosmos-sdk": "",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.7.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.7.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
+        "v0.6.x": {
+            "cosmos-sdk": "",
+            "modules": {
+                "payment": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.6.0",
+                    "path": "proto/payment"
+                },
+                "qgb": {
+                    "proto-version": "",
+                    "url": "https://github.com/celestiaorg/celestia-app.git",
+                    "tag": "v0.6.0",
+                    "path": "proto/qgb"
+                }
+            }
+        },
         "v0.5.x": {
-            "cosmos-sdk": "v0.46.0-beta2.0.20220418184507-c53157dd63f6",
+            "cosmos-sdk": "",
             "modules": {
                 "payment": {
                     "proto-version": "",
@@ -826,7 +894,7 @@
             }
         },
         "v0.4.x": {
-            "cosmos-sdk": "v0.44.3",
+            "cosmos-sdk": "",
             "modules": {
                 "payment": {
                     "proto-version": "",
@@ -843,7 +911,7 @@
             }
         },
         "v0.3.x": {
-            "cosmos-sdk": "v0.44.3",
+            "cosmos-sdk": "]",
             "modules": {
                 "payment": {
                     "proto-version": "",
@@ -860,7 +928,7 @@
             }
         },
         "v0.2.x": {
-            "cosmos-sdk": "v0.44.3",
+            "cosmos-sdk": "",
             "modules": {
                 "payment": {
                     "proto-version": "",
@@ -877,7 +945,7 @@
             }
         },
         "v0.1.x": {
-            "cosmos-sdk": "v0.44.0",
+            "cosmos-sdk": "",
             "modules": {
                 "payment": {
                     "proto-version": "",
@@ -888,7 +956,7 @@
             }
         },
         "v0.0.1": {
-            "cosmos-sdk": "v0.44.0",
+            "cosmos-sdk": "",
             "modules": {
                 "payment": {
                     "proto-version": "",
