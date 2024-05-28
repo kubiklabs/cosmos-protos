@@ -148,3 +148,267 @@
 - v0.0.1: 
     1. proto/cosmos/base/query/v1beta1 (is not present as a module but has proto file in proto directory)
     2. payment
+
+## stride
+- v22.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. records
+    7. stakedym
+    8. stakeibc
+    9. staketia
+    10. vesting(present in /proto, absent from /x)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+    12. proto/osmosis/gamm/v1beta1 (is not present as a module but has proto file in proto directory)
+- v21.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. records
+    7. stakedym
+    8. stakeibc
+    9. staketia
+    10. vesting(present in /proto, absent from /x)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+    12. proto/osmosis/gamm/v1beta1 (is not present as a module but has proto file in proto directory)
+- v20.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. records
+    7. stakedym
+    8. stakeibc
+    9. staketia
+    10. vesting(present in /proto, absent from /x)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+    12. proto/osmosis/gamm/v1beta1 (is not present as a module but has proto file in proto directory)
+- v19.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. records
+    7. stakedym
+    8. stakeibc
+    9. staketia
+    10. vesting(present in /proto, absent from /x)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+    12. proto/osmosis/gamm/v1beta1 (is not present as a module but has proto file in proto directory)
+- v18.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. ratelimit
+    7. records
+    8. stakeibc
+    9. staketia
+    10. vesting(present in /proto, absent from /x)
+    11. proto/cosmwasm/wasm/v1 (is not present as a module but has proto file in proto directory)
+    12. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+    13. proto/osmosis/gamm/v1beta1 (is not present as a module but has proto file in proto directory)
+- v17.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. ratelimit
+    7. records
+    8. stakeibc
+    9. vesting(present in /proto, absent from /x)
+    10. proto/cosmwasm/wasm/v1 (is not present as a module but has proto file in proto directory)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+    12. proto/osmosis/gamm/v1beta1 (is not present as a module but has proto file in proto directory)
+- v16.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. ratelimit
+    7. records
+    8. stakeibc
+    9. vesting(present in /proto, absent from /x)
+    10. proto/cosmwasm/wasm/v1 (is not present as a module but has proto file in proto directory)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+- v15.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. ratelimit
+    7. records
+    8. stakeibc
+    9. vesting(present in /proto, absent from /x)
+    10. proto/cosmwasm/wasm/v1 (is not present as a module but has proto file in proto directory)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+- v14.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. ratelimit
+    7. records
+    8. stakeibc
+    9. vesting(present in /proto, absent from /x)
+    10. proto/cosmwasm/wasm/v1 (is not present as a module but has proto file in proto directory)
+    11. proto/cosmos/staking/v1beta1 (is not present as a module but has proto file in proto directory)
+- v13.1.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. icaoracle
+    6. ratelimit
+    7. records
+    8. stakeibc
+    9. vesting(present in /proto, absent from /x)
+    10. proto/cosmwasm/wasm/v1 (is not present as a module but has proto file in proto directory)
+- v12.1.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v11.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v10.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v9.2.1:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v9.1.1:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v9.1.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v9.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v8.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v7.0.0:
+    1. autopilot
+    2. claim
+    3. epochs
+    4. icacallbacks
+    5. ratelimit
+    6. records
+    7. stakeibc
+    8. vesting(present in /proto, absent from /x)
+- v6.0.0:
+    1. claim
+    2. epochs
+    3. icacallbacks
+    4. records
+    5. stakeibc
+    6. vesting(present in /proto, absent from /x)
+- v5.0.0:
+    1. claim
+    2. epochs
+    3. icacallbacks
+    4. records
+    5. stakeibc
+    6. vesting(present in /proto, absent from /x)
+- v4.0.3:
+    1. claim
+    2. epochs
+    3. icacallbacks
+    4. records
+    5. stakeibc
+    6. vesting(present in /proto, absent from /x)
+- v4.0.2:
+    1. claim
+    2. epochs
+    3. icacallbacks
+    4. records
+    5. stakeibc
+    6. vesting(present in /proto, absent from /x)
+- v3.0.0:
+    1. claim
+    2. epochs
+    3. icacallbacks
+    4. records
+    5. stakeibc
+    6. vesting(present in /proto, absent from /x)
+- v2.0.3:
+    1. epochs
+    2. icacallbacks
+    3. records
+    4. stakeibc
+- v1.0.4:
+    1. epochs
+    2. icacallbacks
+    3. records
+    4. stakeibc
+- v1.0.2:
+    1. epochs
+    2. icacallbacks
+    3. records
+    4. stakeibc
+- v1.0.0:
+    1. epochs
+    2. icacallbacks
+    3. records
+    4. stakeibc
