@@ -412,3 +412,129 @@
     2. icacallbacks
     3. records
     4. stakeibc
+
+## osmosis
+- v7.3.0
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v7.2.1
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v7.2.0
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v7.1.0
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v7.0.4
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v7.0.3
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v7.0.2
+    1. epochs
+    2. gamm (along with v1beta1, it also has pool-models/balancer)
+    3. incentives
+    4. lockup
+    5. simulation (doesn't have proto files in /proto)
+    6. store (doesn't have module in /x)
+    7. superfluid
+- v6.4.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v6.3.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v6.1.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v6.0.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v5.0.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v4.2.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v4.1.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v4.0.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+    5. store (doesn't have module in /x)
+- v3.1.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+- v3.0.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+- v2.0.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)
+- v1.0.0
+    1. epochs
+    2. incentives
+    3. lockup
+    4. simulation (doesn't have proto files in /proto)

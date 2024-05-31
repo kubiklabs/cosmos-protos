@@ -2848,5 +2848,1142 @@
                 }
             }
         }
+    },
+    "osmosis-1": {
+        "v7.3.0": {
+            "cosmos-sdk": "v0.45.3",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.3.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v7.2.1": {
+            "cosmos-sdk": "v0.45.3",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.1",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v7.2.0": {
+            "cosmos-sdk": "v0.45.1",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.2.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v7.1.0": {
+            "cosmos-sdk": "v0.45.1",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.1.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v7.0.4": {
+            "cosmos-sdk": "v0.45.1",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.4",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v7.0.3": {
+            "cosmos-sdk": "v0.45.1",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.3",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v7.0.2": {
+            "cosmos-sdk": "v0.45.1",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "superfluid": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/superfluid"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v7.0.2",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v6.4.0": {
+            "cosmos-sdk": "v0.44.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.4.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v6.3.0": {
+            "cosmos-sdk": "v0.44.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.3.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v6.1.0": {
+            "cosmos-sdk": "v0.44.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.1.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v6.0.0": {
+            "cosmos-sdk": "v0.44.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v6.0.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v5.0.0": {
+            "cosmos-sdk": "v0.44.3",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "txfees": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v5.0.0",
+                    "path": "proto/osmosis/txfees/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v4.2.0": {
+            "cosmos-sdk": "v0.42.9",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.2.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v4.1.0": {
+            "cosmos-sdk": "v0.42.9",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.1.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v4.0.0": {
+            "cosmos-sdk": "v0.42.9",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "store": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v4.0.0",
+                    "path": "proto/osmosis/store/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v3.1.0": {
+            "cosmos-sdk": "v0.42.9",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.1.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v3.0.0": {
+            "cosmos-sdk": "v0.42.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v3.0.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v2.0.0": {
+            "cosmos-sdk": "v0.42.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v2.0.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        },
+        "v1.0.0": {
+            "cosmos-sdk": "v0.42.5",
+            "modules": {
+                "claim": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/claim/v1beta1"
+                },
+                "epochs": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/epochs"
+                },
+                "gamm": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/gamm/v1beta1"
+                },
+                "incentives": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/incentives"
+                },
+                "lockup": {
+                    "proto-version": "",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/lockup"
+                },
+                "mint": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/mint/v1beta1"
+                },
+                "pool-incentives": {
+                    "proto-version": "v1beta1",
+                    "url": "https://github.com/osmosis-labs/osmosis.git",
+                    "tag": "v1.0.0",
+                    "path": "proto/osmosis/pool-incentives/v1beta1"
+                },
+                "simulation": {
+                }
+            }
+        }
     }
 }
